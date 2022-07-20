@@ -1,2 +1,22 @@
-# Snake-Game
-Snake game with goal to capture an apple
+# Snake Game
+
+## About
+
+This is a snake game created in html. The goal for the game is for the snake to capture the apple, using arrow keys.
+
+## Getting Started
+
+To visit the deployed site click the following link [ Snake Game]()
+
+## Built with
+
+* HTML
+* CSS
+* javascript
+
+## Sole Contributor
+
+Rashad Roman (https://github.com/Threeeyeking)
+
+## preview
+![snake](image\snake game image.jpeg)
