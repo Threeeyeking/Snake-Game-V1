@@ -7,7 +7,7 @@ This is a snake game created in html. The goal for the game is for the snake to 
 ## Getting Started
 
 To visit the deployed site click the following link []()
-or launch source code in your live server or web browser.
+, launch source code in your live server, or web browser.
 
 ## Built with
 
